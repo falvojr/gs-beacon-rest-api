@@ -1,2 +1,1 @@
-# gs-beacon-rest-api
-Get Started Beacon REST API
+# Get Started Beacon REST API
